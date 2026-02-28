@@ -5,22 +5,30 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🚀 I’m a **Software Developer** focused on building robust and scalable applications.
-- 🌱 Currently deep diving into **Backend Development** and **Automation**.
-- 💬 Ask me about **PHP, Python, Java, or Web Tech**.
+- 🚀 I'm a **Web Developer & QA Automation Enthusiast**. I build robust applications and ensure they stay that way through automated testing.
+- 🌱 Currently mastering **CI/CD Pipelines** and **Advanced Automation Frameworks**.
+- 💬 Ask me about **Fullstack Development, Selenium, Pytest, or API Testing**.
 - 📫 Reach me at: **satriaanjasmara04@gmail.com**
 
 ---
 
 ### 🛠️ My Tech Stack
+
+#### 💻 Web Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,java,js,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=laravel,web.py,javalin,mysql,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,python,java,js,laravel,react,mysql" />
   </a>
 </p>
 
-> **Note:** I use **Laravel** (PHP), **Web.py** (Python), or **Javalin** (Java) for building powerful backends.
+#### 🧪 QA & Automation Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=selenium,postman,docker,githubactions,linux" />
+  </a>
+</p>
+
+> **Core Focus:** Building with **Laravel/React** and testing with **Selenium/Pytest**.
 
 ---
 
@@ -40,4 +48,4 @@
 
 <br />
 
-*"Code is like humor. When you have to explain it, it’s bad."*
+*"Write code as if the person who ends up maintaining it will be a violent psychopath who knows where you live."*
