@@ -5,19 +5,22 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🚀 I’m a **Software Enthusiast** passionate about building impactful solutions.
-- 🌱 I’m currently learning deeper into **Modern Web Technologies**.
-- 💬 Ask me about **JavaScript, React, or Web Development**.
-- 📫 Reach me at: **[Email Anda di Sini]**
+- 🚀 I’m a **Software Developer** focused on building robust and scalable applications.
+- 🌱 Currently deep diving into **Backend Development** and **Automation**.
+- 💬 Ask me about **PHP, Python, Java, or Web Tech**.
+- 📫 Reach me at: **satriaanjasmara04@gmail.com**
 
 ---
 
 ### 🛠️ My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,python,java,js,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=laravel,web.py,javalin,mysql,git,vscode" />
   </a>
 </p>
+
+> **Note:** I use **Laravel** (PHP), **Web.py** (Python), or **Javalin** (Java) for building powerful backends.
 
 ---
 
@@ -31,10 +34,10 @@
 
 ### 🤝 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/username-anda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/username-anda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Satriatt123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/satriaanjas.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <br />
 
-*"Building things one commit at a time."*
+*"Code is like humor. When you have to explain it, it’s bad."*
