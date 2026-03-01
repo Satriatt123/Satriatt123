@@ -17,7 +17,7 @@
 #### 💻 Web Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,java,js,laravel,react,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,python,java,js,react,mysql" />
   </a>
 </p>
 
