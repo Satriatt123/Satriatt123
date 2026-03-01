@@ -24,7 +24,7 @@
 #### 🧪 QA & Automation Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,postman,docker,githubactions,linux" />
+    <img src="https://skillicons.dev/icons?i=katalon,selenium,postman,docker,githubactions,linux" />
   </a>
 </p>
 
