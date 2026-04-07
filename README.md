@@ -33,10 +33,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satriatt123&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satriatt123&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
+<table border="0">
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satriatt123&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats" /></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satriatt123&layout=compact&theme=tokyonight&langs_count=6" /></td>
+  </tr>
+</table>
 
 ---
 
