@@ -35,7 +35,7 @@
 ### 📊 GitHub Stats
 <table border="0">
   <tr>
-    <td><img height="180em" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Satriatt123&theme=dark)](https://git.io/streak-stats)" /></td>
+    <td><img height="180em" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Satriatt123)](https://git.io/streak-stats)"/></td>
     <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satriatt123&layout=compact&theme=tokyonight&langs_count=6" /></td>
   </tr>
 </table>
