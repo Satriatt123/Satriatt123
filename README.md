@@ -36,7 +36,7 @@
 <table border="0">
   <tr>
     <td><img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Satriatt123&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satriatt123&layout=compact&theme=tokyonight&langs_count=6" /></td>
+    <td><img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Satriatt123&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" /></td>
   </tr>
 </table>
 
